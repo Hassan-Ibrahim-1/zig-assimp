@@ -1,3 +1,4 @@
+Forked to work with zig 0.14
 # OpenAssetImporter Library Binding for Zig
 
 This repo is a build sdk for [Assimp](https://github.com/assimp/assimp) to be used with the Zig build system:
